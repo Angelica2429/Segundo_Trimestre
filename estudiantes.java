@@ -11,7 +11,7 @@ public class estudiantes {
     }
       public void mostrarInfo() {
         System.out.println("El nombre del estudiantes es:"+nombre);
-        System.out.println("El codigo del estudiante"+codigo);
+        System.out.println("El codigo del estudiante:"+codigo);
         System.out.println("la fecha de naciemiento es:"+fecha_de_nacimiento);
     }
 
