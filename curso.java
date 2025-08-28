@@ -11,9 +11,9 @@ public class curso {
         this.estudiantes=estudiantes;
     }
     public void mostrarInfo() {
-        System.out.println("El curso online:"+nombre);
-        System.out.println("El codigo del curso online:"+codigo);
-        System.out.println("El profesor del curso online es:"+profesor);
+        System.out.println("El curso :"+nombre);
+        System.out.println("El codigo del curso :"+codigo);
+        System.out.println("El profesor del curso es:"+profesor);
     }
 
 public static void main(String[] args ){
